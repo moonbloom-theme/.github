@@ -1,12 +1,12 @@
 <div align="center">
-  <h3>Moonbloom Theme</h3>
+  <h3>Moonbloom Theme  🌙</h3>
   <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
   <span><a href="https://donate.teplostanski.dev">Support Us</a> • <a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a></span>
 </div>
 
 <br/>
 
-<p>It's here! 🌙
+<p>It's here!
 On December 1st, the new Moonbloom dark theme dropped! 🎉</p>
 
 **Compatible with:**
