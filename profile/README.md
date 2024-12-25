@@ -13,6 +13,7 @@ On December 1st, the new Moonbloom dark theme dropped! 🎉</p>
 - [Termux](https://github.com/moonbloom-theme/termux)
 - [Zsh](https://github.com/moonbloom-theme/zsh)
 - [Vivaldi](https://github.com/moonbloom-theme/vivaldi)
+- [Alacritty](https://github.com/moonbloom-theme/alacritty)
 
 **Coming soon:**
 - Zsh Syntax Highlighting
