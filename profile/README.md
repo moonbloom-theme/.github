@@ -25,5 +25,5 @@ On December 1st, the new Moonbloom dark theme dropped! 🎉</p>
 Give it a try and let the glow of the night inspire you!
 
 <p align="center">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/termux?style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/termux?style=flat-square&labelColor=%231d1e27&color=%23E8C87E">
 </p>
