@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg" alt="Logo">
+  <img src="./logo.svg" alt="Logo" width="160px">
   <h3>Moonbloom Theme  🌙</h3>
   <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
   <span><a href="https://donate.teplostanski.dev">Support Us</a> • <a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a></span>
