@@ -15,10 +15,10 @@ On December 1st, the new Moonbloom dark theme dropped! 🎉</p>
 - [Zsh](https://github.com/moonbloom-theme/zsh)
 - [Vivaldi](https://github.com/moonbloom-theme/vivaldi)
 - [Alacritty](https://github.com/moonbloom-theme/alacritty)
+- [Visual Studio Code](https://github.com/moonbloom-theme/visual-studio-code)
 
 **Coming soon:**
 - Zsh Syntax Highlighting
-- VSCode
 - Sublime Text
 - Bat
 
