@@ -2,7 +2,11 @@
   <img src="./logo.svg" alt="Logo" width="160px">
   <h3>Moonbloom Theme  🌙</h3>
   <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
-  <span><a href="https://donate.teplostan.ski">support us</a>  ·  <a href="https://moonbloom.teplostan.ski">website</a>  ·  <a href="https://github.com/orgs/moonbloom-theme/discussions">discussions</a></span>
+  <p>
+    <samp>
+      <a href="https://donate.teplostan.ski">support us</a>  ·  <a href="https://moonbloom.teplostan.ski">website</a>  ·  <a href="https://github.com/orgs/moonbloom-theme/discussions">discussions</a>
+    </samp>
+  </p>
 </div>
 
 <br/>
